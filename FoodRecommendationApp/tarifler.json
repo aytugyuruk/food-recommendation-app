@@ -1,0 +1,458 @@
+[
+    {
+        "isim": "Sandviç",
+        "malzemeler": ["ekmek", "peynir", "domates"]
+    },
+    {
+        "isim": "Peynirli Omlet",
+        "malzemeler": ["yumurta", "peynir", "tereyağı"]
+    },
+    {
+        "isim": "Çorba",
+        "malzemeler": ["su", "tuz", "domates", "pirinç"]
+    },
+    {
+        "isim": "Makarna",
+        "malzemeler": ["makarna", "tuz", "su", "zeytinyağı"]
+    },
+    {
+        "isim": "Menemen",
+        "malzemeler": ["yumurta", "domates", "biber", "peynir"]
+    },
+    {
+        "isim": "Kumpir",
+        "malzemeler": ["patates", "tereyağı", "peynir", "sosis", "mısır"]
+    },
+    {
+        "isim": "Pilav",
+        "malzemeler": ["pirinç", "su", "tuz", "tereyağı"]
+    },
+    {
+        "isim": "Tost",
+        "malzemeler": ["ekmek", "peynir", "domates", "salam"]
+    },
+    {
+        "isim": "Domates Çorbası",
+        "malzemeler": ["domates", "su", "tuz", "un", "tereyağı"]
+    },
+    {
+        "isim": "Patates Kızartması",
+        "malzemeler": ["patates", "zeytinyağı", "tuz"]
+    },
+    {
+        "isim": "Pizza",
+        "malzemeler": ["un", "domates", "peynir", "sucuk", "mantar"]
+    },
+    {
+        "isim": "Zeytinyağlı Fasulye",
+        "malzemeler": ["fasulye", "zeytinyağı", "soğan", "domates"]
+    },
+    {
+        "isim": "Mücver",
+        "malzemeler": ["kabak", "un", "yumurta", "peynir", "dereotu"]
+    },
+    {
+        "isim": "Köfte",
+        "malzemeler": ["kıyma", "soğan", "yumurta", "ekmek", "baharatlar"]
+    },
+    {
+        "isim": "İçli Köfte",
+        "malzemeler": ["bulgur", "kıyma", "soğan", "ceviz", "baharatlar"]
+    },
+    {
+        "isim": "Zeytinyağlı Dolma",
+        "malzemeler": ["dolmalık biber", "pirinç", "soğan", "zeytinyağı", "domates"]
+    },
+    {
+        "isim": "Sulu Köfte",
+        "malzemeler": ["kıyma", "soğan", "patates", "havuç", "domates"]
+    },
+    {
+        "isim": "Lahmacun",
+        "malzemeler": ["un", "kıyma", "soğan", "domates", "maydanoz"]
+    },
+    {
+        "isim": "Adana Kebap",
+        "malzemeler": ["kıyma", "biber", "soğan", "baharatlar", "maydanoz"]
+    },
+    {
+        "isim": "Çiğ Köfte",
+        "malzemeler": ["bulgur", "biber salçası", "soğan", "domates", "baharatlar"]
+    },
+    {
+        "isim": "Mercimek Köftesi",
+        "malzemeler": ["mercimek", "bulgur", "soğan", "domates salçası", "baharatlar"]
+    },
+    {
+        "isim": "Humus",
+        "malzemeler": ["nohut", "tahin", "limon", "zeytinyağı", "sarımsak"]
+    },
+    {
+        "isim": "Babagannuş",
+        "malzemeler": ["patlıcan", "domates", "biber", "zeytinyağı", "sarımsak"]
+    },
+    {
+        "isim": "Acılı Ezme",
+        "malzemeler": ["domates", "biber", "soğan", "maydanoz", "baharatlar"]
+    },
+    {
+        "isim": "Muhammara",
+        "malzemeler": ["ceviz", "biber salçası", "zeytinyağı", "sarımsak", "ekmek kırıntısı"]
+    },
+    {
+        "isim": "Yaprak Sarma",
+        "malzemeler": ["asma yaprağı", "pirinç", "soğan", "zeytinyağı", "domates"]
+    },
+    {
+        "isim": "Mantar Sote",
+        "malzemeler": ["mantar", "soğan", "domates", "biber", "zeytinyağı"]
+    },
+    {
+        "isim": "Karnıyarık",
+        "malzemeler": ["patlıcan", "kıyma", "soğan", "domates", "biber"]
+    },
+    {
+        "isim": "İmam Bayıldı",
+        "malzemeler": ["patlıcan", "soğan", "domates", "biber", "zeytinyağı"]
+    },
+    {
+        "isim": "Cacık",
+        "malzemeler": ["yoğurt", "salatalık", "sarımsak", "zeytinyağı", "nane"]
+    },
+    {
+        "isim": "Şakşuka",
+        "malzemeler": ["patlıcan", "domates", "biber", "zeytinyağı", "sarımsak"]
+    },
+    {
+        "isim": "Paçanga Böreği",
+        "malzemeler": ["yufka", "pastırma", "peynir", "domates", "biber"]
+    },
+    {
+        "isim": "Ispanaklı Börek",
+        "malzemeler": ["yufka", "ıspanak", "peynir", "soğan", "zeytinyağı"]
+    },
+    {
+        "isim": "Su Böreği",
+        "malzemeler": ["yufka", "peynir", "tereyağı", "yumurta"]
+    },
+    {
+        "isim": "Kol Böreği",
+        "malzemeler": ["yufka", "peynir", "patates", "soğan", "zeytinyağı"]
+    },
+    {
+        "isim": "Mantı",
+        "malzemeler": ["un", "kıyma", "soğan", "yoğurt", "sarımsak"]
+    },
+    {
+        "isim": "Havuçlu Pilav",
+        "malzemeler": ["pirinç", "havuç", "zeytinyağı", "su", "tuz"]
+    },
+    {
+        "isim": "Tavuklu Pilav",
+        "malzemeler": ["pirinç", "tavuk", "tereyağı", "su", "tuz"]
+    },
+    {
+        "isim": "Tavuklu Makarna",
+        "malzemeler": ["makarna", "tavuk", "zeytinyağı", "domates", "baharatlar"]
+    },
+    {
+        "isim": "Kıymalı Makarna",
+        "malzemeler": ["makarna", "kıyma", "soğan", "domates", "baharatlar"]
+    },
+    {
+        "isim": "Fırında Makarna",
+        "malzemeler": ["makarna", "peynir", "süt", "tereyağı", "yumurta"]
+    },
+    {
+        "isim": "Mücver",
+        "malzemeler": ["kabak", "un", "yumurta", "peynir", "dereotu"]
+    },
+    {
+        "isim": "Zeytinyağlı Enginar",
+        "malzemeler": ["enginar", "zeytinyağı", "soğan", "havuç", "bezelye"]
+    },
+    {
+        "isim": "Bulgur Pilavı",
+        "malzemeler": ["bulgur", "soğan", "domates", "biber", "zeytinyağı"]
+    },
+    {
+        "isim": "Kısır",
+        "malzemeler": ["bulgur", "domates", "soğan", "biber", "maydanoz"]
+    },
+    {
+        "isim": "Mercimek Çorbası",
+        "malzemeler": ["mercimek", "soğan", "havuç", "patates", "zeytinyağı"]
+    },
+    {
+        "isim": "Yoğurt Çorbası",
+        "malzemeler": ["yoğurt", "pirinç", "yumurta", "un", "nane"]
+    },
+    {
+        "isim": "Ezogelin Çorbası",
+        "malzemeler": ["mercimek", "bulgur", "soğan", "domates", "baharatlar"]
+    },
+    {
+        "isim": "Tarhana Çorbası",
+        "malzemeler": ["tarhana", "su", "tereyağı", "domates", "biber"]
+    },
+    {
+        "isim": "Tavuk Suyu Çorbası",
+        "malzemeler": ["tavuk", "su", "pirinç", "limon", "tuz"]
+    },
+    {
+        "isim": "Sebzeli Güveç",
+        "malzemeler": ["patlıcan", "domates", "biber", "kabak", "soğan"]
+    },
+    {
+        "isim": "Tavuk Sote",
+        "malzemeler": ["tavuk", "soğan", "domates", "biber", "baharatlar"]
+    },
+    {
+        "isim": "Hünkar Beğendi",
+        "malzemeler": ["patlıcan", "kıyma", "soğan", "tereyağı", "peynir"]
+    },
+    {
+        "isim": "Karnıyarık",
+        "malzemeler": ["patlıcan", "kıyma", "soğan", "domates", "biber"]
+    },
+    {
+        "isim": "Fırında Tavuk",
+        "malzemeler": ["tavuk", "patates", "soğan", "zeytinyağı", "baharatlar"]
+    },
+    {
+        "isim": "Kuzu Tandır",
+        "malzemeler": ["kuzu eti", "soğan", "domates", "zeytinyağı", "baharatlar"]
+    },
+    {
+        "isim": "Tantuni",
+        "malzemeler": ["et", "soğan", "domates", "biber", "lavaş"]
+    },
+    {
+        "isim": "Kağıt Kebabı",
+        "malzemeler": ["kuzu eti", "soğan", "domates", "biber", "zeytinyağı"]
+    },
+    {
+        "isim": "Tavuk Şiş",
+        "malzemeler": ["tavuk", "soğan", "domates", "biber", "yoğurt"]
+    },
+    {
+        "isim": "Kuzu Şiş",
+        "malzemeler": ["kuzu eti", "soğan", "domates", "biber", "yoğurt"]
+    },
+    {
+        "isim": "Tavuk Kanat",
+        "malzemeler": ["tavuk kanat", "yoğurt", "zeytinyağı", "baharatlar"]
+    },
+    {
+        "isim": "Et Sote",
+        "malzemeler": ["et", "soğan", "domates", "biber", "zeytinyağı"]
+    },
+    {
+        "isim": "Beyti Kebabı",
+        "malzemeler": ["kıyma", "soğan", "domates", "biber", "lavaş"]
+    },
+    {
+        "isim": "Kuzu İncik",
+        "malzemeler": ["kuzu incik", "soğan", "domates", "biber", "baharatlar"]
+    },
+    {
+        "isim": "Şiş Kebap",
+        "malzemeler": ["kuzu eti", "soğan", "domates", "biber", "yoğurt"]
+    },
+    {
+        "isim": "Tavuk Döner",
+        "malzemeler": ["tavuk", "soğan", "domates", "biber", "yoğurt"]
+    },
+    {
+        "isim": "Et Döner",
+        "malzemeler": ["et", "soğan", "domates", "biber", "yoğurt"]
+    },
+    {
+        "isim": "Fırın Tavuk",
+        "malzemeler": ["tavuk", "patates", "soğan", "domates", "baharatlar"]
+    },
+    {
+        "isim": "Kuzu Güveç",
+        "malzemeler": ["kuzu eti", "soğan", "domates", "biber", "zeytinyağı"]
+    },
+    {
+        "isim": "Kuzu Kavurma",
+        "malzemeler": ["kuzu eti", "soğan", "domates", "biber", "baharatlar"]
+    },
+    {
+        "isim": "Tavuk Kavurma",
+        "malzemeler": ["tavuk", "soğan", "domates", "biber", "baharatlar"]
+    },
+    {
+        "isim": "Tavuk Çorbası",
+        "malzemeler": ["tavuk", "soğan", "domates", "biber", "baharatlar"]
+    },
+    {
+        "isim": "Etli Güveç",
+        "malzemeler": ["et", "soğan", "domates", "biber", "zeytinyağı"]
+    },
+    {
+        "isim": "Etli Patlıcan",
+        "malzemeler": ["patlıcan", "et", "soğan", "domates", "biber"]
+    },
+    {
+        "isim": "Etli Bamya",
+        "malzemeler": ["bamya", "et", "soğan", "domates", "zeytinyağı"]
+    },
+    {
+        "isim": "Etli Taze Fasulye",
+        "malzemeler": ["taze fasulye", "et", "soğan", "domates", "zeytinyağı"]
+    },
+    {
+        "isim": "Tavuklu Pilav",
+        "malzemeler": ["pirinç", "tavuk", "tereyağı", "su", "tuz"]
+    },
+    {
+        "isim": "Kuzu İncik",
+        "malzemeler": ["kuzu incik", "soğan", "domates", "biber", "baharatlar"]
+    },
+    {
+        "isim": "Tavuklu Bulgur Pilavı",
+        "malzemeler": ["bulgur", "tavuk", "soğan", "domates", "zeytinyağı"]
+    },
+    {
+        "isim": "Kuzu İncik",
+        "malzemeler": ["kuzu incik", "soğan", "domates", "biber", "baharatlar"]
+    },
+    {
+        "isim": "Sebzeli Tavuk",
+        "malzemeler": ["tavuk", "soğan", "domates", "biber", "kabak"]
+    },
+    {
+        "isim": "Kuzu Kebabı",
+        "malzemeler": ["kuzu eti", "soğan", "domates", "biber", "yoğurt"]
+    },
+    {
+        "isim": "Tavuk Izgara",
+        "malzemeler": ["tavuk", "soğan", "domates", "biber", "baharatlar"]
+    },
+    {
+        "isim": "Etli Patates",
+        "malzemeler": ["patates", "et", "soğan", "domates", "biber"]
+    },
+    {
+        "isim": "Tavuk Kanat",
+        "malzemeler": ["tavuk kanat", "yoğurt", "zeytinyağı", "baharatlar"]
+    },
+    {
+        "isim": "Tavuk Sote",
+        "malzemeler": ["tavuk", "soğan", "domates", "biber", "baharatlar"]
+    },
+    {
+        "isim": "Tavuk Döner",
+        "malzemeler": ["tavuk", "soğan", "domates", "biber", "yoğurt"]
+    },
+    {
+        "isim": "Sebzeli Pilav",
+        "malzemeler": ["pirinç", "sebzeler", "zeytinyağı", "su", "tuz"]
+    },
+    {
+        "isim": "Fırında Tavuk",
+        "malzemeler": ["tavuk", "patates", "soğan", "domates", "baharatlar"]
+    },
+    {
+        "isim": "Etli Güveç",
+        "malzemeler": ["et", "soğan", "domates", "biber", "zeytinyağı"]
+    },
+    {
+        "isim": "Kuzu Tandır",
+        "malzemeler": ["kuzu eti", "soğan", "domates", "zeytinyağı", "baharatlar"]
+    },
+    {
+        "isim": "Etli Kabak",
+        "malzemeler": ["kabak", "et", "soğan", "domates", "zeytinyağı"]
+    },
+    {
+        "isim": "Tavuklu Pilav",
+        "malzemeler": ["pirinç", "tavuk", "tereyağı", "su", "tuz"]
+    },
+    {
+        "isim": "Kuzu Kebabı",
+        "malzemeler": ["kuzu eti", "soğan", "domates", "biber", "yoğurt"]
+    },
+    {
+        "isim": "Etli Nohut",
+        "malzemeler": ["nohut", "et", "soğan", "domates", "baharatlar"]
+    },
+    {
+        "isim": "Tavuk Şinitzel",
+        "malzemeler": ["tavuk göğsü", "un", "yumurta", "galeta unu", "zeytinyağı"]
+    },
+    {
+        "isim": "Köfte",
+        "malzemeler": ["kıyma", "soğan", "ekmek içi", "yumurta", "baharatlar"]
+    },
+    {
+        "isim": "Makarna Salatası",
+        "malzemeler": ["makarna", "yoğurt", "mayonez", "sebzeler", "mısır"]
+    },
+    {
+        "isim": "Barbunya Pilaki",
+        "malzemeler": ["barbunya", "soğan", "domates", "havuç", "zeytinyağı"]
+    },
+    {
+        "isim": "Kıymalı Börek",
+        "malzemeler": ["yufka", "kıyma", "soğan", "baharatlar", "zeytinyağı"]
+    },
+    {
+        "isim": "Tavuk Kanat",
+        "malzemeler": ["tavuk kanat", "yoğurt", "zeytinyağı", "baharatlar"]
+    },
+    {
+        "isim": "Mantar Sote",
+        "malzemeler": ["mantar", "soğan", "domates", "biber", "zeytinyağı"]
+    },
+    {
+        "isim": "Fırında Köfte",
+        "malzemeler": ["kıyma", "soğan", "patates", "domates", "biber"]
+    },
+    {
+        "isim": "Patates Kızartması",
+        "malzemeler": ["patates", "zeytinyağı", "tuz"]
+    },
+    {
+        "isim": "Çoban Salata",
+        "malzemeler": ["domates", "salatalık", "soğan", "biber", "zeytinyağı"]
+    },
+    {
+        "isim": "Kısır",
+        "malzemeler": ["bulgur", "domates", "soğan", "biber", "zeytinyağı"]
+    },
+    {
+        "isim": "Mercimek Köftesi",
+        "malzemeler": ["mercimek", "bulgur", "soğan", "domates", "baharatlar"]
+    },
+    {
+        "isim": "Yoğurtlu Semizotu",
+        "malzemeler": ["semizotu", "yoğurt", "sarımsak", "zeytinyağı", "tuz"]
+    },
+    {
+        "isim": "Çılbır",
+        "malzemeler": ["yumurta", "yoğurt", "sarımsak", "zeytinyağı", "baharatlar"]
+    },
+    {
+        "isim": "Mücver",
+        "malzemeler": ["kabak", "un", "yumurta", "yoğurt", "baharatlar"]
+    },
+    {
+        "isim": "Sigara Böreği",
+        "malzemeler": ["yufka", "peynir", "maydanoz", "zeytinyağı"]
+    },
+    {
+        "isim": "Peynirli Börek",
+        "malzemeler": ["yufka", "peynir", "maydanoz", "zeytinyağı"]
+    },
+    {
+        "isim": "Taze Fasulye",
+        "malzemeler": ["taze fasulye", "soğan", "domates", "zeytinyağı", "tuz"]
+    },
+    {
+        "isim": "Barbunya",
+        "malzemeler": ["barbunya", "soğan", "domates", "zeytinyağı", "tuz"]
+    }
+]
